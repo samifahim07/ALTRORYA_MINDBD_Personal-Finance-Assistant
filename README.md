@@ -671,20 +671,6 @@ Do not add broad dataset/model exclusions without considering whether your compe
 
 The following resources support the ALTRORYA FinTechathon 2026 submission and provide additional materials for project review and evaluation.
 
-### Source Code
-
-The implementation of **ALTRORYA — AI-Powered Personal Financial Intelligence Platform** is documented in this GitHub repository. Explore the `backend/` and `frontend/` directories for the FastAPI services, financial intelligence modules, React interface, and supporting code.
-
-### Google Drive Resources
-
-The shared Google Drive folder is the central location for supplementary project materials, such as source-code archives, presentation files, technical documentation, and demonstrations, where provided.
-
-**[Access ALTRORYA Project Files on Google Drive](https://drive.google.com/drive/folders/1FZeg3k9xiWThjMGVuU_x9swgSz7oW8-o)**
-
-### Project Demonstration
-
-Presentation and demonstration materials can be accessed through the [ALTRORYA Google Drive folder](https://drive.google.com/drive/folders/1FZeg3k9xiWThjMGVuU_x9swgSz7oW8-o), subject to the files currently shared there.
-
 ### Additional Information
 
 ALTRORYA brings together predictive financial forecasting, financial digital twins, agentic AI, hypothetical financial decision simulations, intelligent expense management, and personalized financial assistance. This repository describes the software implementation; the linked folder serves as a supplementary resource for competition judges and technical reviewers.
