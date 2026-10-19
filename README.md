@@ -38,7 +38,8 @@ ALTRORYA explores that question through two deliberately separate environments:
 17. [Privacy and Security](#privacy-and-security)
 18. [Limitations and Responsible Use](#limitations-and-responsible-use)
 19. [Future Development](#future-development)
-20. [Project Background and License](#project-background-and-license)
+20. [Project Resources](#project-resources)
+21. [Project Background and License](#project-background-and-license)
 
 ---
 
@@ -664,6 +665,28 @@ Do not add broad dataset/model exclusions without considering whether your compe
 5. **Financial resilience partnerships:** Better sourced and regularly verified employment and assistance information.
 6. **Continuous quality assurance:** Automated integration tests, dependency scans, model artifact verification, and cross-module regression testing.
 7. **Safe deployment and observability:** Dedicated production infrastructure, monitoring, incident response, and data retention/deletion policies.
+
+## Project Resources
+
+The following resources support the ALTRORYA FinTechathon 2026 submission and provide additional materials for project review and evaluation.
+
+### Source Code
+
+The implementation of **ALTRORYA — AI-Powered Personal Financial Intelligence Platform** is documented in this GitHub repository. Explore the `backend/` and `frontend/` directories for the FastAPI services, financial intelligence modules, React interface, and supporting code.
+
+### Google Drive Resources
+
+The shared Google Drive folder is the central location for supplementary project materials, such as source-code archives, presentation files, technical documentation, and demonstrations, where provided.
+
+**[Access ALTRORYA Project Files on Google Drive](https://drive.google.com/drive/folders/1FZeg3k9xiWThjMGVuU_x9swgSz7oW8-o)**
+
+### Project Demonstration
+
+Presentation and demonstration materials can be accessed through the [ALTRORYA Google Drive folder](https://drive.google.com/drive/folders/1FZeg3k9xiWThjMGVuU_x9swgSz7oW8-o), subject to the files currently shared there.
+
+### Additional Information
+
+ALTRORYA brings together predictive financial forecasting, financial digital twins, agentic AI, hypothetical financial decision simulations, intelligent expense management, and personalized financial assistance. This repository describes the software implementation; the linked folder serves as a supplementary resource for competition judges and technical reviewers.
 
 ## Project Background and License
 
